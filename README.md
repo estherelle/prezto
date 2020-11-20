@@ -22,6 +22,7 @@ version is 4.3.11.
      ```console
      git clone --recursive https://github.com/estherelle/prezto.git "${ZDOTDIR:-$HOME}/.zprezto"
      ```
+     **Note**: You can skip 3-5 as zshrc is already present.
 
   3. Create a new Zsh configuration by copying the Zsh configuration files
      provided:
